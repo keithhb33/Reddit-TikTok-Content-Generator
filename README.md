@@ -1,2 +1,5 @@
 # Reddit-TikTok-Content-Generator
-Scrapes Reddit subreddits and parses the data into a stereotypical Reddit video such as those commonly seen on TikTok.
+Scrapes Reddit subreddits
+Parses the data
+Text to speech
+Generates mp4s with gameplay in the background

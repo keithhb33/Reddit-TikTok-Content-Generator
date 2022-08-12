@@ -8,6 +8,6 @@ Generates mp4s with gameplay in the background
 <img src="ttsdata.JPG"></img>
 
 
-Install needed modules/libraries
-Run makevideosfinal.py
-Run duplicatehandler.py
+Install needed modules/libraries<br/>
+Run makevideosfinal.py<br/>
+Run duplicatehandler.py<br/>
